@@ -1,5 +1,4 @@
-# fbprophet
-Menggunakan Fb Prophet untuk menganalisis data time series
+# Menggunakan Fb Prophet untuk menganalisis data time series
 
 <ol>
 <li>Facebook prophet module -> pengantar pengenalan Fb Prophet </li>
